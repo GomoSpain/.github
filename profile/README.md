@@ -2,8 +2,7 @@
 
 <br>
 
-<!-- TODO: logo URL from gomomobility.com -->
-<img src="https://gomomobility.com/logo.svg" alt="Gomo" height="64">
+<img src="https://raw.githubusercontent.com/GomoSpain/.github/main/profile/logo.png" alt="Gomo" height="64">
 
 <br>
 <br>
